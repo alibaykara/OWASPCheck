@@ -1,12 +1,8 @@
 # OWASPCheck
 
-simple OWASP Top 10 vulnerability scanner
-
-```
-
-# OWASPCheck
-
 OWASPCheck.py simple OWASP Top 10 vulnerability scanner
+
+[](https://github.com/user-attachments/assets/a46253a4-73b9-4626-807e-94d947b004d1)
 
 
 ## Run Locally
@@ -14,7 +10,7 @@ OWASPCheck.py simple OWASP Top 10 vulnerability scanner
 Clone the project
 
 ```bash
-  git clone https://github.com/alibaykara/[OWASPCheck.git]
+  git clone https://github.com/alibaykara/OWASPCheck.git
 ```
 
 
